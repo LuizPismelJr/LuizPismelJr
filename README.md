@@ -1,5 +1,13 @@
-## Hi there 👋
+![Alt Text](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExamIyYTh3eXZuZHp0bTBnMzM1NTYzZHQ2bmozZDJ3eDlhbjE1NjJyOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Nx0rz3jtxtEre/giphy.webp)
 
+# Luiz Pismel Jr
+
+### Game Developer
+![Alt Text](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGVyZHU0bjBpanhwa3duN2I4OWdoOHgwYzl1dnI4c2J5N3dtN3UxaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/mdfPpglf2c0QxED151/giphy.webp)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEUUSERNAME&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=4974a5&text_color=FFF&hide_title=true&hide=stars)
+
+![Alt Text](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzRodWdkZzJlcHM1eGluMmFxOG41dGwwc3hoejM2ZXFyOTl1ZWEwdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ue5ZwFCaxy64M/giphy.webp) 
 <!--
 **LuizPismelJr/LuizPismelJr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
